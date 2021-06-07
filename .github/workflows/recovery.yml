@@ -17,7 +17,7 @@ env:
   MANIFEST: git://github.com/PitchBlackRecoveryProject/manifest_pb.git
   MANIFEST_BRANCH: android-10.0
   DEVICE: surya
-  DT_LINK: https://github.com/Joker-V2/android_device_xiaomi_surya-pbrp -b android-10.0
+  DT_LINK: https://github.com/Joker-V2/device_xiaomi_surya_pbrp -b android-10
   DT_PATH: device/xiaomi/surya
   TARGET: recoveryimage
   TZ: Asia/Kolkata
